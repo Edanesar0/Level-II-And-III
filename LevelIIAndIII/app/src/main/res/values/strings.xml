@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Level II And III</string>}
+    <string name="error_load_top">Ha ocurrido un error al cargar el top</string>
+    <string name="numeral"># </string>
+    <string name="artista">Artista</string>
+    <string name="artistas">Artistas</string>
+    <string name="duracion">Duracion</string>
+    <string name="imglogo">imgLogo</string>
+    <string name="imgbanner">imgBanner</string>
+    <string name="nombre_cancion">Nombre Cancion</string>
+    <string name="n_mero_de_reproducciones">Número de reproducciones</string>
+    <string name="url">Url</string>
+    <string name="seg">Seg</string>
+    <string name="canciones">Canciones</string>
+    <string name="search">Buscar</string>
+    <string name="offline">Modo Offline</string>
+</resources>
